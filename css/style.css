@@ -2,13 +2,15 @@ body {
   background-color: #f9f7fe;
   font-family: Arial, Helvetica, sans-serif;
 }
+
 h1 {
   text-align: center;
-  font-size: 36px;
+  font-size: 36px !important;
 }
+
 h2 {
-  margin: 0 0 5px;
-  font-size: 28px;
+  margin: 0 0 5px !important;
+  font-size: 28px !important;
 }
 select {
   display: block;
