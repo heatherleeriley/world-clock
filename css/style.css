@@ -6,11 +6,13 @@ body {
 h1 {
   text-align: center;
   font-size: 36px !important;
+  font-weight: bold !important;
 }
 
 h2 {
   margin: 0 0 5px !important;
   font-size: 28px !important;
+  font-weight: bold !important;
 }
 select {
   display: block;
